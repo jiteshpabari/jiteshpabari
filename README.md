@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my new journey! 
+
+From Pharmacist to becoming a Web Developer! Its a journey worth looking at...
+
+**Keep track of my page to see my new projects!**
+
+
+<picture>
+    <img alt="Computers with code." src="https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg">
+</picture>
 
 <!--
 **jiteshpabari/jiteshpabari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
