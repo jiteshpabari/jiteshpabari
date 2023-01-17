@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-### Welcome to my new journey! 
+### Welcome to my journey! 
 
-From Pharmacist to becoming a Web Developer! Its a journey worth looking at...
+From Pharmacist, giving meds :pill: to becoming a Web Developer :computer:! Its a journey worth looking at...:arrow_right:
+
+Currently I am completing a Web Development Bootcamp with HyperionDev!
 
 **Keep track of my page to see my new projects!**
 
