@@ -10,7 +10,7 @@ Currently I am completing a Web Development Bootcamp with HyperionDev!
 
 
 <picture>
-    <img alt="Computers with code." src="https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg">
+    <img alt="Computers with code." src="https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg" width=50% height=50%>
 </picture>
 
 <!--
