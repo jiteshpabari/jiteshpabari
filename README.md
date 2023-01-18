@@ -6,7 +6,9 @@ From Pharmacist, giving meds :pill: to becoming a Web Developer :computer:! Its 
 
 Currently I am completing a Web Development Bootcamp with HyperionDev where I am learning the fundamentals of HTML, CSS, JavaScript and React.
 
-During these 16 weeks, as part of course tasks I have been creating multple programs and modules that you will be able to look at below, first one being he Country Data API program wheree you can view live population, elevation and temperature data for Cape Town in South Africa.
+During these 16 weeks, as part of course tasks I have been creating multiple programs and modules that you will be able to look at below, first one being the Country Data API program where you can view live population, elevation and temperature data for Cape Town in South Africa.
+
+Many more new uploads coming soon.....
 
 **Keep track of my page to see my new projects!**
 
